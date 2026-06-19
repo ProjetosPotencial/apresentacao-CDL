@@ -1,0 +1,12 @@
+# Vercel
+.vercel
+
+# Dependencies (não usadas — site estático, sem build)
+node_modules
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+*.log
+.idea
+.vscode
